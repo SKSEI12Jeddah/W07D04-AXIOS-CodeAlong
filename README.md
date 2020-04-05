@@ -28,12 +28,13 @@ If you want to change the font color to white, or the background image to the ri
   
     <details>
     <summary><strong><< click here after you've tried for 15 minutes!</strong></summary>
-
+    
+    <details>
     This is the endpoint needed to get the data:
 
 
     > http://api.openweathermap.org/data/2.5/weather?q=Jeddah&units=metric&APPID=REPLACETHISWITHYOURID
-
+    </details>
     </details>
 
     c.  Now that you have the data, append that data to your page.
