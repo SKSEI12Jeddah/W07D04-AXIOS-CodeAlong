@@ -30,6 +30,7 @@ If you want to change the font color to white, or the background image to the ri
     <summary><strong><< click here after you've tried for 15 minutes!</strong></summary>
     
     <details>
+    <summary><strong><< Try for 15 mins more then click here!</strong></summary>
     This is the endpoint needed to get the data:
 
 
