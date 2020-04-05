@@ -27,7 +27,7 @@ If you want to change the font color to white, or the background image to the ri
     If you can't figure out how to do this in 15 minutes, the answer is below.
   
     <details>
-    <summary><strong><< click here after you've tried for 15 minutes!</strong></summary>
+    <summary><strong><< Click here after you've tried for 15 minutes!</strong></summary>
     
     <details>
     <summary><strong><< Try for 15 mins more then click here!</strong></summary>
