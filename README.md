@@ -77,9 +77,9 @@ const icons = {
 <hr>
 
 ## What will you achieve with this LAB
--- How to read documentation for API <br>
--- How to call API<br>
--- How to call API with API Key<br>
+-- How to read documentations for APIs <br>
+-- How to call APIs<br>
+-- How to call APIs with API Keys<br>
 -- How to use axios for multiple API calls<br>
 -- AJAX<br>
 -- DOM manipulation<br>
