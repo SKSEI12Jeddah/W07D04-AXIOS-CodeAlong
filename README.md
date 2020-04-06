@@ -74,3 +74,15 @@ const icons = {
 1. What extra features that Momentum has, but you dont have in your app?
 2. Identify and try to incorporate the way you want it.
 
+<hr>
+
+## What will you achieve with this LAB
+-- How to read documentation for API
+-- How to call API
+-- How to call API with API Key
+-- How to use axios for multiple API calls
+-- AJAX
+-- DOM manipulation
+-- Styling
+-- Object with icons
+
