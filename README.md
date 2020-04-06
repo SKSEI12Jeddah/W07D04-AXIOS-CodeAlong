@@ -57,7 +57,7 @@ Some styling suggestions:
 
 Add any other minor details you see.
 
-## Bonus:
+## Part 3 - Make it more beautiful with icons!
 1. Look at the spec, do you see that little icon next to the temperature? Below there is an object with icons you can use for this. Add the appropriate icon next to the temp.  If the API says it's sunny, there should be a sun, clouds if it is cloudy, etc.
 ```js
 const icons = {
@@ -69,3 +69,8 @@ const icons = {
   clouds: '☁',
 };
 ```
+
+## Part 4 - Bonus
+1. What extra features that Momentum has, but you dont have in your app?
+2. Identify and try to incorporate the way you want it.
+
